@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Laravel CCEO</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet" type="text/css">
@@ -47,7 +47,7 @@
 
             .title {
                 font-size: 84px;
-            }
+                color: #2A76D2  ;            }
 
             .links > a {
                 color: #636b6f;
@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Curso Laravel
                 </div>
 
                 <div class="links">
